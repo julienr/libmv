@@ -22,6 +22,7 @@
 #include <QMenuBar>
 #include <QFileDialog>
 #include <QtGui>
+#include <GL/glu.h>
 
 #include "libmv/base/scoped_ptr.h"
 #include "libmv/base/vector.h"

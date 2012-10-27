@@ -23,6 +23,7 @@
 #include <QtGui>
 #include <GL/glu.h>
 #include <QtOpenGL>
+#include <GL/glu.h>
 
 using namespace libmv::scene;
 
