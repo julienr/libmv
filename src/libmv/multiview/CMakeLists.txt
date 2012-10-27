@@ -28,6 +28,7 @@ SET(MULTIVIEW_SRC projection.cc
                   similarity.cc
                   similarity_kernel.cc
                   euclidean.cc
+                  test_data_sets.cc
                   euclidean_kernel.cc
                   robust_euclidean.cc)
 
